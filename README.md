@@ -58,6 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Website](https://www.itsfyn.com)
 - [Documentation](https://www.itsfyn.com/docs)
 - [Community Forum](https://www.itsfyn.com/community)
+- [Twitter](https://www.x.com/itsfynai)
 
 ## 📧 Contact
 For support or inquiries, please email us at hello@itsfyn.com
