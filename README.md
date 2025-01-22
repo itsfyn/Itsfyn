@@ -55,9 +55,9 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔗 Links
-- [Website](https://itsfyn.ai)
-- [Documentation](https://docs.itsfyn.ai)
-- [Community Forum](https://community.itsfyn.ai)
+- [Website](https://www.itsfyn.com)
+- [Documentation](https://www.itsfyn.com/docs)
+- [Community Forum](https://www.itsfyn.com/community)
 
 ## 📧 Contact
-For support or inquiries, please email us at supporth@itsfyn.ai
+For support or inquiries, please email us at hello@itsfyn.com
