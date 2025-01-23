@@ -1,5 +1,5 @@
 # ItsFyn - AI-Powered Digital Privacy & Security Assistant
-![Logo](logo.png)
+![Logo](./assets/logo.png)
 
 ## 🛡️ Overview
 ItsFyn is an advanced artificial intelligence system designed to protect your digital privacy and enhance your online security. By leveraging cutting-edge technology, ItsFyn provides comprehensive protection against various digital threats while ensuring your personal data remains private and secure.
